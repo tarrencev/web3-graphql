@@ -1,6 +1,8 @@
 # web3-graphql
 
+Simple prototype wrapping web3 calls in an GraphQL interface.
+
 ```bash
-$ npm install
-$ npm start
+yarn
+yarn start
 ```
